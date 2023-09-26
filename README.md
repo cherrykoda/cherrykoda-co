@@ -1,2 +1,2 @@
-# cherrykoda-co
+# cherrykoda.co
 Personal Website
